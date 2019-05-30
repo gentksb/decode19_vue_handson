@@ -15,6 +15,9 @@
           <el-menu-item>
             <router-link to="/form">Form</router-link>
           </el-menu-item>
+          <el-menu-item>
+            <router-link to="/translator">Translator</router-link>
+          </el-menu-item>
         </el-menu>
       </el-aside>
       <el-main>
